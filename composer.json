@@ -38,7 +38,8 @@
         "psr-0": {
             "Pico": "lib/",
             "PicoPluginInterface": "lib/",
-            "AbstractPicoPlugin": "lib/"
+            "AbstractPicoPlugin": "lib/",
+            "ParsedownExtraPlugin": "lib/"
         }
     }
 }

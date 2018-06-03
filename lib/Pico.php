@@ -851,7 +851,7 @@ class Pico
      */
     protected function registerParsedown()
     {
-        $this->parsedown = new ParsedownExtra();
+        $this->parsedown = new ParsedownExtraPlugin();
     }
 
     /**
